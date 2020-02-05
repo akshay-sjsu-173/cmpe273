@@ -1,0 +1,5 @@
+orpatron@akshay-Ubuntu-5558:~/PycharmProjects/practiceProblems$ time python3.8 CMPE273/ext_merge_sort.py
+
+real    0m10.053s
+user    0m0.036s
+sys     0m0.009s
